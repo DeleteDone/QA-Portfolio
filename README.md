@@ -1709,7 +1709,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/CyFZgF25EuAA6g]
+**Скриншот**: [https://disk.yandex.ru/i/9Mu79ybmvuL4Qg]
 
 **Приоритет**: незначительный
 
@@ -1745,7 +1745,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/d/l7mbS4BL6OPS3A]
+**Скриншот**: [https://disk.yandex.ru/i/_YXLjaX9yNNmEQ]
 
 **Приоритет**: незначительный
 
@@ -1777,7 +1777,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/7LEp6uxb9xar8Q]
+**Скриншот**: [https://disk.yandex.ru/i/bpEs0SKFqMozdQ]
 
 **Приоритет**: низкий
 
@@ -1811,7 +1811,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/8dZ-azY9_FG0zw]
+**Скриншот**: [https://disk.yandex.ru/i/suwaFWRQ7N53DA]
 
 **Приоритет**: незначительный
 
@@ -1843,7 +1843,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/eLGKnSkcSZXmRQ]
+**Скриншот**: [https://disk.yandex.ru/i/Rfr2A9hyWDRg6g]
 
 **Приоритет**: незначительный
 
@@ -1878,7 +1878,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/W-hhJYw7x98uQw]
+**Скриншот**: [https://disk.yandex.ru/i/HxgCNqJMY03vvg]
 
 **Приоритет**: низкий
 
@@ -1914,7 +1914,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скринкаст**: [https://yadi.sk/i/CGF0Hgf3MMmz-Q]
+**Скринкаст**: [https://disk.yandex.ru/i/4jhD2t9wAkom4Q]
 
 **Приоритет**: низкий
 
@@ -1945,7 +1945,7 @@ macOs 10.15.2
 Яндекс.Браузер 20.3.0.2220 (64-bit)<br>
 Разрешение экрана: 800x600
 
-**Скриншот**: [https://yadi.sk/i/2eg7_QcaS9Qpsw]
+**Скриншот**: [https://disk.yandex.ru/i/iwvsatlnATPQqA]
 
 **Приоритет**: незначительный
 
@@ -1976,7 +1976,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/RSP4xCZi0zKBvw]
+**Скриншот**: [https://disk.yandex.ru/i/wxqgzEZwvNDWNg]
 
 **Приоритет**: незначительный
 
@@ -2016,7 +2016,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/6M7Iwkg5hskIRA]
+**Скриншот**: [https://disk.yandex.ru/i/yzd37SjvlJZftw]
 
 **Приоритет**: низкий
 
@@ -2054,7 +2054,7 @@ macOs 10.15.2
 Яндекс.Браузер 20.3.0.2220 (64-bit)<br>
 Разрешение экрана: 800x600
 
-**Скриншот**: [https://yadi.sk/i/ia9ewomAdJoOWQ]
+**Скриншот**: [https://disk.yandex.ru/i/0BiAHtMS30f83Q]
 
 **Приоритет**: незначительный
 
@@ -2094,7 +2094,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/J4YykF5PZqgJQQ]
+**Скриншот**: [https://disk.yandex.ru/i/Qn7Bf1bw-KwtKA]
 
 **Приоритет**: критичный
 
@@ -2140,7 +2140,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/qKS4rcmDhDOVAQ]
+**Скриншот**: [https://disk.yandex.ru/i/S3ULTJd6TetGOw]
 
 **Приоритет**: средний
 
@@ -2180,7 +2180,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/8JrGL5dJ4JN6hw]
+**Скриншот**: [https://disk.yandex.ru/i/T3YS2Cj2CUTc-g]
 
 **Приоритет**: критичный
 
@@ -2221,7 +2221,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншоты**: [https://yadi.sk/i/8fTKVNtNCmXwSA], [https://yadi.sk/i/g-l0KVPBffZFEA]
+**Скриншоты**: [https://disk.yandex.ru/i/4w4eGiGubjkIgQ], [https://disk.yandex.ru/i/Movrt__68GlIJQ]
 
 **Приоритет**: низкий
 
@@ -2257,7 +2257,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/C322eo13h1hSdw]
+**Скриншот**: [https://disk.yandex.ru/i/bhxP40gudxJ_8g]
 
 **Приоритет**: средний
 
@@ -2293,7 +2293,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/uogNqswWgzX4sg]
+**Скриншот**: [https://disk.yandex.ru/i/rsUaWBSFLpuCbA]
 
 **Приоритет**: средний
 
@@ -2327,7 +2327,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншот**: [https://yadi.sk/i/PnPeVE5kuE1EKQ]
+**Скриншот**: [https://disk.yandex.ru/i/xhzwxHHybaWAAw]
 
 **Приоритет**: незначительный
 
@@ -2404,7 +2404,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скриншоты**: [https://yadi.sk/i/R6GNjYSTzYgIlQ] (макет), [https://yadi.sk/i/80qU8pwNMeluGw] 
+**Скриншоты**: [https://disk.yandex.ru/i/QuwyBRhHgdZ0gw] (макет), [https://disk.yandex.ru/i/X1w1RyLXnW36Vw] 
 
 **Приоритет**: незначительный
 
@@ -2422,7 +2422,7 @@ Firefox 75.0 (64-bit)<br>
 
 Пример: Усачева, 3
 
-**Скриншот**: [https://yadi.sk/i/R6GNjYSTzYgIlQ] (макет)
+**Скриншот**: [https://disk.yandex.ru/i/QpMM8y6KfXN6oA] (макет)
 
 **Тип**: задача
 
@@ -2483,7 +2483,7 @@ macOs 10.15.2
 Яндекс.Браузер 20.3.0.2220 (64-bit)<br>
 Разрешение экрана: 800x600
 
-**Скринкаст**: [https://yadi.sk/i/Jc658TkoZqJgag]
+**Скринкаст**: [https://disk.yandex.ru/i/_HyQGtvH1kuoJQ]
 
 **Приоритет**: средний
 
@@ -2522,7 +2522,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скринкаст**: [https://yadi.sk/i/sJ1e3iF8ktmWMg]
+**Скринкаст**: [https://disk.yandex.ru/i/F49khxIlnJbXyg]
 
 **Приоритет**: средний
 
@@ -2579,7 +2579,7 @@ macOs 10.15.2
 Firefox 75.0 (64-bit)<br>
 Разрешение экрана: 1280x720
 
-**Скринкаст**: [https://yadi.sk/i/yrZck0Ll3xmxKg]
+**Скринкаст**: [https://disk.yandex.ru/i/dknBkrFMaKysUg]
 
 **Приоритет**: низкий
 
@@ -2803,7 +2803,7 @@ Xiaomi Redmi 4X<br>
 Android 7.1.2<br>
 Яндекс.Метро 3.6
 
-**Скриншот:** [https://yadi.sk/i/Bj41vqKK-lpvgw]
+**Скриншот:** [https://disk.yandex.ru/i/JcR6G_d8cKC62A]
 
 **Приоритет:** средний
 
@@ -2840,7 +2840,7 @@ Xiaomi Redmi 4X<br>
 Android 7.1.2<br>
 Яндекс.Метро 3.6
 
-**Скринкаст:** [https://yadi.sk/i/YQNOsAuS4mRW0A]
+**Скринкаст:** [https://disk.yandex.ru/i/kn76Hg4l4edVNg]
 
 **Приоритет:** низкий
 
@@ -2909,7 +2909,7 @@ Xiaomi Redmi 4X<br>
 Android 7.1.2<br>
 Яндекс.Метро 3.6
 
-**Скринкаст:** [https://yadi.sk/i/6af9il09c7npQg]
+**Скринкаст:** [https://disk.yandex.ru/i/ZLQQT-QVItOhqQ]
 
 **Приоритет:** средний
 
@@ -2943,7 +2943,7 @@ Xiaomi Redmi 4X<br>
 Android 7.1.2<br>
 Яндекс.Метро 3.6
 
-**Скринкаст:** [https://yadi.sk/i/WUTZOzOATAKZjA]
+**Скринкаст:** [https://disk.yandex.ru/i/McCIQhpKjW3gnQ]
 
 **Приоритет:** средний
 
@@ -2983,7 +2983,7 @@ Xiaomi Redmi 4X<br>
 Android 7.1.2<br>
 Яндекс.Метро 3.6
 
-**Скринкаст:** [https://yadi.sk/i/lsnfIF5-T2h3yA]
+**Скринкаст:** [https://disk.yandex.ru/i/q3b9dfzt-Kfhkw]
 
 **Приоритет:** низкий
 
@@ -3019,7 +3019,7 @@ Xiaomi Redmi 4X<br>
 Android 7.1.2<br>
 Яндекс.Метро 3.6
 
-**Скринкаст:** [https://yadi.sk/i/5oA-6pbNXQx2ZQ]
+**Скринкаст:** [https://disk.yandex.ru/i/5qXhQxgmTM-g8Q]
 
 **Приоритет:** критичный
 
@@ -3053,7 +3053,7 @@ Xiaomi Redmi 4X<br>
 Android 7.1.2<br>
 Яндекс.Метро 3.6
 
-**Скринкаст:** [https://yadi.sk/i/ymC79S_BpaLkdQ]
+**Скринкаст:** [https://disk.yandex.ru/i/jLwhQU1nweiKew]
 
 **Приоритет:** низкий
 
@@ -3089,7 +3089,7 @@ Xiaomi Redmi 4X<br>
 Android 7.1.2<br>
 Яндекс.Метро 3.6
 
-**Скринкаст:** [https://yadi.sk/i/hqgm5pfb27mdRg]
+**Скринкаст:** [https://disk.yandex.ru/i/BqDF7zAejFD9fg]
 
 **Приоритет:** низкий
 
@@ -3129,7 +3129,7 @@ Xiaomi Redmi 4X<br>
 Android 7.1.2<br>
 Яндекс.Метро 3.6
 
-**Скринкаст:** [https://yadi.sk/i/_IELHx4FzryPEA]
+**Скринкаст:** [https://disk.yandex.ru/i/mR7oKE1pavDdjw]
 
 **Приоритет:** средний
 
@@ -3451,7 +3451,7 @@ macOs 10.15.2<br>
 Postman 7.22.1<br>
 API metrokit-service
 
-**Скриншот:** [https://yadi.sk/i/Q39JhIx4tKU-YQ]
+**Скриншот:** [https://disk.yandex.ru/i/poc76E5-7FAYBQ]
 
 **Приоритет:** средний
 
@@ -3529,7 +3529,7 @@ macOs 10.15.2<br>
 Postman 7.22.1<br>
 API metrokit-service
 
-**Скриншот:** [https://yadi.sk/i/oDdjegyhnIq8Tg]
+**Скриншот:** [https://disk.yandex.ru/i/8DSizX_xHopXrA]
 
 **Приоритет:** средний
 
@@ -3607,7 +3607,7 @@ macOs 10.15.2<br>
 Postman 7.22.1<br>
 API metrokit-service
 
-**Скриншот:** [https://yadi.sk/i/NgCePxnySF7-fg]
+**Скриншот:** [https://disk.yandex.ru/i/vAi_JqW-TikQFQ]
 
 **Приоритет:** средний
 
@@ -3685,7 +3685,7 @@ macOs 10.15.2<br>
 Postman 7.22.1<br>
 API metrokit-service
 
-**Скриншот:** [https://yadi.sk/i/8es5sVV7KTEquw]
+**Скриншот:** [https://disk.yandex.ru/i/sC4GrAbkaPeTRQ]
 
 **Приоритет:** средний
 
@@ -3763,7 +3763,7 @@ macOs 10.15.2<br>
 Postman 7.22.1<br>
 API metrokit-service
 
-**Скриншот:** [https://yadi.sk/i/qm7fZ7gRUBH_1A]
+**Скриншот:** [https://disk.yandex.ru/i/elK1Yb3N-pYnvg]
 
 **Приоритет:** средний
 
@@ -3841,7 +3841,7 @@ macOs 10.15.2<br>
 Postman 7.22.1<br>
 API metrokit-service
 
-**Скриншот:** [https://yadi.sk/i/CTRfVyRBISXlwA]
+**Скриншот:** [https://disk.yandex.ru/i/tls7ibAHROXNzA]
 
 **Приоритет:** средний
 
@@ -3919,7 +3919,7 @@ macOs 10.15.2<br>
 Postman 7.22.1<br>
 API metrokit-service
 
-**Скриншот:** [https://yadi.sk/i/_IBj6x2VK8hDTw]
+**Скриншот:** [https://disk.yandex.ru/i/kqrf0s3YoN-OSA]
 
 **Приоритет:** средний
 
@@ -4646,5 +4646,5 @@ testYaRu();
 
 [Наверх](#up)
 
-&#169;	[Яндекс.Практикум](https://praktikum.yandex.ru) &#38; [Елена Добровольская](https://github.com/okogora), 2020
+&#169;	[Яндекс.Практикум](https://praktikum.yandex.ru) &#38; [Оксана Аскерова](https://github.com/DeleteDone), 2023
 
